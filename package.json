@@ -1,0 +1,6 @@
+{
+  "name": "hmr-test",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": ["cli", "merged", "example"]
+}
